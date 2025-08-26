@@ -76,5 +76,7 @@ contract id  STBMF32918DX1HEWS0NEWPCGY0342KQS4ZE15QN0.BookPublishingDAO
 ---
 
 *This project is part of the decentralized publishing revolution. Join us in reshaping how literature is funded, published, and shared with the world.*
-<img width="443" height="613" alt="image" src="https://github.com/user-attachments/assets/fee6c63f-2f47-4ba3-b985-2feab274869a" />
+STBMF32918DX1HEWS0NEWPCGY0342KQS4ZE15QN0.BookPublishingDAO
+<img width="1847" height="795" alt="Screenshot 2025-08-26 133659" src="https://github.com/user-attachments/assets/3e4db55a-ebe2-443d-b0e7-b97e24feaadb" />
+
 
