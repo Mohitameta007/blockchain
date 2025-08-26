@@ -51,18 +51,6 @@ contract id  STBMF32918DX1HEWS0NEWPCGY0342KQS4ZE15QN0.BookPublishingDAO
 
 *Contract deployment information will be added here once the contract is deployed to the Stacks blockchain.*
 
-### Testnet Deployment
-- **Contract Address**: `[To be added]`
-- **Deployer Address**: `[To be added]`
-- **Block Height**: `[To be added]`
-- **Transaction ID**: `[To be added]`
-
-### Mainnet Deployment
-- **Contract Address**: `[To be added]`
-- **Deployer Address**: `[To be added]`
-- **Block Height**: `[To be added]`
-- **Transaction ID**: `[To be added]`
-
 ### Key Functions
 - `submit-book-and-collect-funding`: Submit a book proposal with funding goal and revenue sharing percentage
 - `fund-book-and-get-revenue-share`: Fund a book project and receive revenue tokens proportional to contribution
